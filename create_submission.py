@@ -7,17 +7,21 @@ from keras import models
 from tqdm import tqdm
 from cropper import crop_receipt
 
-def create_submission(input_size, model, test_img_folder, sample_csv_path, result_path):
+def create_submission(model, test_img_folder, sample_csv_path, result_path):
+	img_id_list = []
 	quality_list = []
 	with open(sample_csv_path, "r", encoding="utf8") as fi:
 		csv_reader = csv.DictReader(fi)
 		csv_reader = list(csv_reader)
-
 		csv_reader = [dict(d) for d in csv_reader]
 		model = models.load_model(model)
 
+		input_size = model.layers[0].input_shape[1]
+
 		for row in tqdm(csv_reader):
 			img_id = row["img_id"]
+			img_id_list.append(img_id)
+
 			image = cv2.imread(os.path.join(test_img_folder, img_id))
 			image = crop_receipt(image)
 			image = cv2.resize(image, (input_size, input_size))
@@ -29,7 +33,14 @@ def create_submission(input_size, model, test_img_folder, sample_csv_path, resul
 			quality_list.append(str(quality))
 
 	with open(result_path, "w") as fo:
-		fo.write("\n".join(quality_list))
+		header = ["img_id", "anno_image_quality"]
+		writer = csv.DictWriter(fo, fieldnames=header)
+
+		writer.writeheader()
+		for i, img_id in enumerate(img_id_list):
+			writer.writerow({"img_id": img_id_list[i], "anno_image_quality": quality_list[i]})
+
+		#fo.write("\n".join(quality_list))
 
 if __name__ == "__main__":
 	ap = argparse.ArgumentParser()
@@ -39,11 +50,9 @@ if __name__ == "__main__":
 		help="Path to sample csv of private test")
 	ap.add_argument("-m", "--model-path", type=str, required=True,
 		help="Path to the saved model")
-	ap.add_argument("-s", "--input-size", type=int, required=True,
-		help="Input shape", default=128)
 	ap.add_argument("-r", "--result-path", type=str, required=True,
 		help="Result path")
 	args = vars(ap.parse_args())
 
 	#"./data/private_test/mcocr_private_test_data/mcocr_test_samples_df.csv"
-	create_submission(args["input_size"], args["model_path"], args["test_img_folder"], args["sample_csv_path"], args["result_path"])
+	create_submission(args["model_path"], args["test_img_folder"], args["sample_csv_path"], args["result_path"])
