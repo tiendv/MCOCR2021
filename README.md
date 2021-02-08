@@ -25,6 +25,6 @@ Detailed information of NVIDIA AICity Challenge 2019 can be found [here](https:/
 
 To adjust the hyperparameter of training model, please access `config.py`
 
-To train model, run the below script:
+To train model, run the command below:
 
 `python3 train.py`
