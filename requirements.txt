@@ -1,0 +1,9 @@
+Keras==2.4.3
+numpy==1.13.3
+requests==2.25.1
+tqdm==4.55.0
+opencv_contrib_python==4.5.1.48
+tensorflow_gpu==2.4.0
+matplotlib==3.3.3
+scikit_learn==0.24.1
+tensorflow==2.4.1
