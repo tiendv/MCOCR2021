@@ -1,38 +1,9 @@
-## MC-OCR 2021 - Receipt Image Quality Evaluation using EfficientNet
+## Mobile-Captured Image Document Recognition for Vietnamese Receipts 2021 (MC-OCR 2021)
 
-This repository contains our source code of Task1 in the RIVF2021 MC-OCR Competition.
+This repository contains our source code of both Task 1 and Task 2 in the RIVF2021 MC-OCR Competition.
 
 ### Introduction
 
-The challenge Task 1 of MC-OCR 2021 required participating teams to submit receipt image quality. Receipt image quality is  measured  by  the  ratio  of text lines associated with the “clear” label evaluated by human  annotators.  The  quality  ranges  from  0  to  1  in  which, score of 1 means the highest quality and score of 0 means the lowest quality.
+Mobile  captured  receipts  OCR  (MC-OCR)  is  a  process  of recognizing  text  from  structured  and  semi-structured receipts, and invoices in general captured by mobile devices. This process plays a critical role in the streamlining of document-intensive processes and office automation in many financial, accounting and taxation areas. However, MC-ORC faces big challenges due to the complexity  of  mobile  captured  images.  First,  receipts  might be crumpled or the content might be blurred. Second, different from scanned images the quality of  photos  taken  with  mobile  devices  is  very  diverse  because of the light condition and the dynamic environment (e.g., in-door, out-door, complex background, etc.), where the receipts were captured. These result in low quality of recognized information.  To  address  them,  in  this  challenge,  we  target two  tasks  including  (1)  evaluating  the  quality  of the captured receipt, and (2) recognizing required fields of the receipt. The task hence is a multi-modal analysis task which can take advantages from both fields: computer vision and natural language processing which are two of the main interests of the RIVF community.
 
-Detailed information of NVIDIA AICity Challenge 2019 can be found [here](https://rivf2021-mc-ocr.vietnlp.com/).
-![overview](overview.png)
-
-### Requirements
-- Python 3.6
-- OpenCV
-- sklearn
-- tensorflow
-- Keras
-
-### Installation
-
-`pip3 install -r requirements.txt`
-
-### Train EfficientNet model
-
-To adjust the hyperparameter of training model, please access `config.py`
-
-To train model, run the command below:
-
-`python3 train.py`
-
-### Create submission based on saved model
-
-`python3 create_submission.py -t <test_img_folder> -c <sample_csv_path> -m <saved_model_path> -r <result_path>`
-
-- `test_img_folder`: Path to input test images folder.
-- `sample_csv_path`: Path to sample submission csv in private test.
-- `saved_model_path`: Path to the saved model.
-- `result_path`: The destination path to save submission csv file.
+Detailed information of MC-OCR 2021 can be found [here](https://rivf2021-mc-ocr.vietnlp.com/).
