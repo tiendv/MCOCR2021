@@ -1,0 +1,27 @@
+FROM nvidia/cuda:10.1-devel-ubuntu18.04
+
+RUN apt update 
+
+RUN apt-get update && apt-get install -y python3-pip
+
+RUN pip3 install scikit-build && \
+    pip3 install cmake
+
+RUN apt-get install --assume-yes git
+
+RUN pip3 install torch==1.4.0 torchvision==0.5.0
+
+RUN pip3 install pyclipper==1.2.0 scikit-image==0.17.2 tqdm==4.50.0 tensorboard==1.14.0 colorlog==4.2.1 Polygon3 && \
+    pip3 install -U scikit-learn scipy matplotlib
+
+RUN pip3 install opencv-python -vvv
+
+COPY ./pannet /service
+
+RUN cd /service && \
+    pip3 install -r requirements.txt && \
+    gdown --id 1g9IsTAFimiIWXxZuooNTtOr65X9d9Hkc
+
+WORKDIR /service
+
+CMD python3 app.py

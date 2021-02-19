@@ -1,0 +1,16 @@
+Flask==1.1.2
+opencv-python==4.4.0.44
+# tensorflow==2.3.0
+# keras==2.4.3
+numpy==1.18.5
+flask_cors==3.0.9
+easydict==1.9.0
+# fastapi==0.61.1
+pydantic
+uvicorn
+python-multipart==0.0.5
+torch==1.6.0
+torchvision==0.7.0
+aiofiles==0.5.0
+gdown
+pyyaml==5.3.1

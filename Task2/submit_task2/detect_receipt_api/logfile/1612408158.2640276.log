@@ -1,0 +1,2 @@
+2021-02-04 03:09:21.092 INFO checkpoint - load: Loading checkpoint from models/faster_RCNN_R_101_FPN_35AP_reciept_90AP.pth
+2021-02-04 03:09:21.535 INFO _internal - _log:  * Running on http://0.0.0.0:5050/ (Press CTRL+C to quit)

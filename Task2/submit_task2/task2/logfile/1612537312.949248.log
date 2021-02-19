@@ -1,0 +1,3 @@
+2021-02-05 15:01:52.987 WARNING _internal - _log:  * Debugger is active!
+2021-02-05 15:01:52.988 INFO _internal - _log:  * Debugger PIN: 200-386-817
+2021-02-05 15:01:55.549 INFO _internal - _log: 127.0.0.1 - - [05/Feb/2021 15:01:55] "[37mPOST /predict HTTP/1.1[0m" 200 -

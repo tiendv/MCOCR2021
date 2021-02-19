@@ -1,0 +1,3 @@
+2020-12-09 12:36:42.234 INFO checkpoint - load: Loading checkpoint from models/faster_R50_FPN_53AP_2k.pth
+2020-12-09 12:36:42.563 INFO _internal - _log:  * Running on http://0.0.0.0:5050/ (Press CTRL+C to quit)
+2020-12-09 12:52:52.384 INFO _internal - _log: 192.168.20.163 - - [09/Dec/2020 12:52:52] "[37mPOST /predict HTTP/1.1[0m" 200 -

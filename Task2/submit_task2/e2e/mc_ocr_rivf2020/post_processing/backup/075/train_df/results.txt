@@ -1,0 +1,391 @@
+mcocr_val_145115someq.jpg	Ngày: 17/08/2020-12:14|||Tổng tiền:|||195,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115aikhi.jpg	15-08-2020 1933|||Tiền mặt|||421,0000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ulhld.jpg	Ngày bán: 10/08/2020 17:33|||TỔNG TIỀN PHẢI T.TOÁN|||108,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115uojjp.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 16:57:31 - 14/08/2020|||Tổng số thanh toán:|||30.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115yomdk.jpg	Vincommerce|||Vincommerce|||Ngày bán: 15/08/2020 10:27|||TỔNG TIỀN PHẢI T.TOÁN|||39,900	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ybbns.jpg	Vincommerce|||Vincommerce|||Ngày bán: 14/08/2020 11:54|||TỔNG TIỀN PHẢI T.TOÁN|||8,800	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ialuk.jpg	Vincommerce|||TP. Cẩm Phà, Quảng Ninh|||Ngày bán: 15/08/2020 10:09|||TỔNG TIỀN PHẢI T.TOÁN|||214,836	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115vmgii.jpg	VinCommerce|||NGÀNH 1060-1062 Trân Phu|||Ngày bán: 15/08/2020 09:51	SELLER|||ADDRESS|||TIMESTAMP
+mcocr_val_145115bwind.jpg	Ngày: 10/08/2020	TIMESTAMP
+mcocr_val_145115bgjwm.jpg	01/08/2020|||18:41|||01/08/2020|||18:45:39|||Tổng giá trị tr:|||199,000	TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115eugvg.jpg	ĐC: 212 Đường Trần Phú-Cầm Phả|||gian.10.16.15. 13/08/2020|||Tổng số thanh toán.|||72.000đ	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115bsuyk.jpg	Ngày: 16/08/2020-17:02|||Tổng cộng:|||87,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115jdexd.jpg	MINIMART ANAN|||10000000000000000000003003 19/08/2020-19:36|||Tổng tiền:|||172,002	SELLER|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114lxzmm.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020.17:12|||Tổng cộng:|||40,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115zadxu.jpg	Chợ Sủi Phú Thị Gia Lâm|||Ngày: 11/08/2020-06:34|||Tổng cộng|||490,080	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115aqmhw.jpg	Vincommerce|||Ngày: 12/08/2020|||Thời gian: 20:01	SELLER|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115kkuee.jpg	18:13:48|||Ngay: 19/09/2019|||Tong so tien thanh toan:|||32,200,00	TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115wcgjk.jpg	Vincommerce|||Vincommerce|||Ngày bán: 13/08/2020 15:10|||TỔNG TIỀN PHẢI T.TOÁN|||66,900	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115kebds.jpg	MINIMART ANAN|||Tổng tiền:|||52,000	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115nhuhq.jpg	MINIMART ANAN|||Tổng cộng:|||140,500	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115krtft.jpg	Tổng tiền : th|||536,008	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115uuxjk.jpg	1000000000000000000000000020 00:00:01|||Tổng cộng:|||34,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115jbayx.jpg	Ngày: 17/08/2020-17:22|||Tổng tiền::|||73,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115sjryb.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020-13:12|||Tổng tiền:|||184,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115bytlk.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020-13:32|||Tổng cộng:|||134,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115werlz.jpg	Tổng tiền|||62,000	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115sgexd.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020-13:09|||Tổng cộng|||49,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115qeimz.jpg	BIDVY|||11:36:08|||08/08/2020	SELLER|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115ysuvc.jpg	Vincommerce|||VM+ QNH TỔ 7, KHU MINH TIÊN Ả|||Ngày bán: 09/08/2020 21:57|||TỔNG TIỀN Ả GIẢM|||45,400	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115aohoe.jpg	VinCommerce|||VinCommerce|||Ngày bán: 15/08/2020 09:38|||TỔNG TIỀN PHẢI T.TOÁN|||113,406	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115bdxyc.jpg	Vincommerce|||Wincommerce|||Ngày bán: 13/08/2020 15:58|||TỔNG TIỀN PHẢI T.TOÁN|||12,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115tkdmm.jpg	THỨC COFFEE|||22 Quang Trung, P10, Gò Vấp|||30.03.2019|||Tiền Thanh Toán|||35 000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115tsmlj.jpg	KAITEA|||Hà Đông, Hà Nội|||20.09.2019|||Tiền Thanh Toán:|||102 850	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115qcwkl.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 16/08/2020-18:37|||Tổng cộng:|||708,400	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115krlcq.jpg	244/23a Huỳnh Văn Bánh, P.11, Q.PN|||30.09.2020 20.10|||Tổng tiền (VAT):|||87 300	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115kedic.jpg	Ngày 10/08/2020 (08.08|||Tiền mặt|||200.000đ	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115xkwvm.jpg	VinCommerce|||Ngày bán: 30/08/2020 17:24|||TỔNG TIỀN Ả GIẢM|||639,250	SELLER|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115vfxzi.jpg	Vincommerce|||VM+ HOM 793 Nguyễn Kiệm|||Ngày bán: 24/03/2019 20:09|||TỔNG TIỀN PHẢI T.TOĂN|||28,200	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115mphkz.jpg	244/23a Huỳnh Văn Bánh, P.11, Q.PN|||04.10.2020 21.57|||04.10.2020 21.57|||Tổng tiền (VAT):|||2 000	ADDRESS|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115scgbd.jpg	Vincommerce|||Mincommerce|||Ngày bán: 14/08/2020 07:35|||TỔNG TIỀN PHẢI T.TOÁN|||136,500	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115iygtq.jpg	Vincommerce|||Vincommerce|||Ngày bán: 09/08/2020 05:59|||TỔNG TIỀN PHẢI T.TOÁN|||30,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115zjwco.jpg	Vincommerce|||VI44 CNH TÔ 7, KHU MINH TIẾN A|||Ngày bán: 15/08/2020 11:21|||TỔNG TIỀN PHẢI T.TOÁN|||44,200	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115emzeo.jpg	244/23a Huỳnh Văn Bánh, P.11, Q.PN|||04.10.2020 16.42|||04.10.2020 16.47|||Tổng tiền (VAT):|||39 000	ADDRESS|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115raftw.jpg	Hà Nội|||Ngày: 07-08-2020|||Chiết khấu:|||59,980	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115xzovf.jpg	Vincommerce|||VM+ 1080-1062 Trần Phú|||Ngày bán: 13/08/2020 19:15|||TỔNG TIỀN PHẢI T.TOÁN|||13,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115amgir.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 18:38:21 - 14/08/2020|||Tổng số thanh toán:|||160.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115hswrm.jpg	Vincommerce|||Vincommerce|||Ngày bán: 15/08/2020 10:26|||TỔNG TIỀN PHẢI T.TOÁN|||14,900	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115cdskc.jpg	Vincommerce|||VM+ TTTM Chợ Sủi|||Ngày bán: 13/08/2020 10:15|||TỔNG TIỀN PHẢI T.TOÁN|||26,400	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115islqk.jpg	Vincommerce|||Mincommerce|||Ngày bán: 12/08/2020 15:40|||TỔNG TIỀN PHẢI T.TOÁN|||32,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115cuzpw.jpg	14/08/2020 19:05:51|||HAN: 2024/12/31|||TỔNG:|||50.000 Đ	TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ezcsy.jpg	NHÀ SÁCH GD-TC CẨM PHẢN|||ĐC: 212 Đường Trấn Phú-Cẩm Phải|||Thời gian: 20:47:43 - 14/08/2020|||Tổng số thanh toán:|||80.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ukrpg.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020-12:46|||Tổng tiền::|||890,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115iszan.jpg	10:54:55|||Ngay: 23/09/2019|||9.6 11:42|||Tong so tien thanh toan:|||201,840,00	TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115dtfvf.jpg	Vincommerce|||TỔNG TIỀN PHẢI T.TOÁN|||24,800	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115elhmv.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||gian:09:30: 07 - 15/08 /2020|||Tổng số thanh toán:|||71.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114qvgii.jpg	Vincommerce|||Vincommerce|||Ngày bán: 15/08/2020 08:21|||TỔNG TIỀN PHẢI T.TOÁN|||5,800	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115sgzau.jpg	Chợ Sủi Phú Thị Gia Lâm|||Ngày: 11/08/2020-17:35|||Tổng cộng:|||76,000	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115eyyqv.jpg	Vincommerce|||VM+ - QNH TỔ 8 KHU 3B CAM TRUNG|||Ngày bán: 12/08/2020 15:21|||TỔNG TIỀN PHẢI T.TOÁN|||36,500	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115monde.jpg	Vincommerce|||TỔNG TIỀN Á GIẢM|||267,800	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115bwvdo.jpg	MINIMART ANAN|||Tổng tiền:|||410,006	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114wftok.jpg	VinCommerce|||VM+ - QNH 590 Trần Phú|||Ngày bán: 15/08/2020 09:47|||TỔNG TIỀN Ả GIẢM|||24,372	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115zuzoa.jpg	Ngày: 15/08/2020-08:34|||Tổng cộng:|||51,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115mrntu.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phải|||gian:10:20: 02 - 15/08 /2020|||Tổng số thanh toán:|||14.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115cgfrz.jpg	Saigon Co.op|||Saigon Co.op|||10:22:20|||Ngay: 23/09/2019|||10:22 27938|||Tong so tien thanh toan:|||38,735,00	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115eipsh.jpg	Vincommerce|||VM+ QNH 112 Thanh Niên|||Ngày bán: 13/08/2020 10:21|||TỔNG TIỀN PHẢI T.TOÁN|||22,200	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ftati.jpg	14 Ho Tung Mau, Cau Giay Dist Hanoi|||Date: Aug 137 2020 02:17 PM	ADDRESS|||TIMESTAMP
+mcocr_val_145115nckos.jpg	ĐỊA CHỈ 1.2 11 11 191011212 1560-1062 TRẦN PHÚ P.C|||11/08/2020 19:52:54|||HẠN: 2021/12/11|||TỔNG:|||100.000 Đ	ADDRESS|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115pnsfe.jpg	Vincommerce|||TỔNG TIỀN PHẢI T.TOÁN|||192,600	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115gkyoe.jpg	CTY CP SÁCH & TBTH QUẢNG NINH|||CTY CP SÁCH & TBTH QUẢNG NINH|||time:11:37: 20 - 09/08 /2020|||Tổng số thanh toán:|||19.724.600đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115zcwxo.jpg	Vincommerce|||Ngày bán: 13/08/2020 19:29|||TỔNG TIỀN PHẢI T.TOÁN|||11,755	SELLER|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115oaaeo.jpg	Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020-15:36|||Tổng cộng|||79,000	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115jagxw.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020-12:32|||Tổng cộng|||62,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115mdpas.jpg	VinCommerce|||VinCommerce|||Ngày bán: 09/08/2020 16:35|||TỔNG TIỀN PHẢI T.TOÁN|||44,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115qtitz.jpg	CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuy, Xã Phú Thị, Huyện Gia Lâm, TP Hà Nội|||Ngày: 10-08-2020|||Cộng tiền hàng|||12,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115nqhvx.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020-13:23 1991|||Tổng cộng:|||82,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115vjwwo.jpg	Vincommerce|||VM+ QNH Dự án KDC lấn biến coc 6|||Ngày bán: 14/08/2020 16:52|||TỔNG TIỀN PHẢI T.TOÁN|||49,500	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115lwwhx.jpg	THE MOOSE & ROO SMOKEHOUSE|||21 Hai Ba Trung, Hang Ba , Hokehousen, Ha Noi,|||14/08/2020|||12:05PM|||Sub total|||135,000	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115lituc.jpg	Vincommerce|||Vincommerce|||Ngày: 09/08/2020|||Thời gian: 16:31	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115dmols.jpg	Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020-13:37|||Tổng cộng|||144,000	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114unyae.jpg		
+mcocr_val_145115ntmdi.jpg	Tổng tiền|||60,000	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115qmbgs.jpg	Tổng Tiền|||12,343,000	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115jmtuc.jpg	13/08/2020|||Cộng tiền hàng:|||155,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115fkewb.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 16/08/2020 -07.50|||Tổng tiền:|||219,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115stiwj.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||gian:10:11: 01 - 11/08 /2020|||Tổng số thanh toán:|||17.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115bbyzp.jpg	Chợ Sủi Phú Thị Gia Lâm|||Ngày: 11/08/2020-21:12|||Tổng cộng:|||230,000	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115yjvrv.jpg	27/03/2019|||20:30|||Tổng tiền chiết kháu|||29,000,00	TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115uqztj.jpg	Vincommerce	SELLER
+mcocr_val_145115fcnxy.jpg	Vincommerce|||TỔNG TIỀN PHẢI T.TOÁN|||543,704	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115habiv.jpg	THỨC COFFEE|||22 Quang Trung, P10, Gò Vấp|||31.03.2019|||Tiền Thanh Toán:|||35 000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115hjimq.jpg	Ngày bán: 15/08/2020 10.56|||TỔNG TIỀN PHẢI T.TOÁN|||49,900	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114cijwj.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 13/08/2020-08:52|||Tổng tiền:|||56,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115qfmdv.jpg	VinCommerce|||VinCommerce|||Ngày 13/08/2020|||Thời gian: 20:57	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145114clhnm.jpg	Ngày: 11-08-2020|||Cộng tiền hàng|||90,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115wfsce.jpg	11/08/2020 - 18: 29|||Cộng tiền hàng:|||40,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114vuumj.jpg	Vincommerce|||TỔNG TIỀN PHẢI T.TOÁN|||49,700	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115klmhe.jpg	Vincommerce|||P. Cầm Bình, TP. Cẩm Phá, QNH|||Ngày bán: 09/08/2020 21:07|||TỔNG TIỀN PHẢI T.TOÁN|||5,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114qwedt.jpg	Vincommerce|||UnCommerce|||Ngày bán: 15/08/2020 10:43|||TỔNG TIỀN PHẢI T.TOÁN|||12,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ucoum.jpg	Vincommerce|||P. Cầm Bình, TP Cầm Phu, Canh|||Ngày bản: 13/08/2020 16:56|||TỔNG TIỀN PHẢI T.TOÁN|||53,400	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115zpaiz.jpg	Vincommerce|||Vincommerce|||Ngày bán: 15/08/2020 06:25|||TỔNG TIỀN PHẢI T.TOÁN|||25,600	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115jsyyl.jpg	THE COFFEE HOUSE|||UDIC Complex - N04 Hoàng Đạo Thuỵ|||Thời gian: 14.08.2020 10.24|||Thành tiền:|||328 000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115mxpds.jpg	Vincommerce|||TỔNG TIỀN Ã GIẢM|||24,000	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114babwd.jpg	Vincommerce|||TỔNG TIỀN PHẢI T.TOÁN|||154,100	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115auaqs.jpg	1001108/ 08/2020 22:37:42|||1948100..7 7:00:00|||Ngày: 08.08/2020|||2 16:21|||16:27|||21:54	TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115okmoj.jpg	Ngày: 09/08/2020 (07:44 ch - 07:44|||Tổng thanh toán|||115.000đ	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ksvgc.jpg	Vincommerce|||QNH QNH 86 Trần Phức|||Ngày bán: 28/07/2020 17:45|||TỔNG TIỀN Ã GIÁN|||39,900	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115lorlh.jpg	Wincommerces|||VM+ QNH Dư án KDC lấn biển cọc 6|||Ngày bán: 14/08/2020 18:24|||TỔNG TIỀN PHẢI T.TOÁN|||96,400	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115lwyzw.jpg	Vincommerce|||VM+ - QNH 1060-1062 Trần Phú|||Thời gian: 18:44|||Ngày: 13/08/2020	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115xldoo.jpg	Vincommerce|||VM+ QNH TỔ 8 Khu 3B Cẩm Trung|||Ngày bán: 15/08/2020 10:41|||TỔNG TIỀN PHẢI T.TOÁN|||39,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115gdqix.jpg	Saigon Co.op|||Co.op Food HN THE K-PARK|||Ngay: 19/09/2019|||18:13:48|||Tong so tien thanh toan:|||32,200,00	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ujvia.jpg	18. 19:11|||1909.09|||1909.09|||1909.09	TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115qxery.jpg	Của hàng 84 Phạm Ngọc Thạch|||08/08/2020 08:32 PM	ADDRESS|||TIMESTAMP
+mcocr_val_145115cyzle.jpg	Tổng cộng:|||58,000	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ftiyl.jpg	Tổng tiền:|||177,002	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ljida.jpg	ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 19:13:53 - 14/08/2020|||Tổng số thanh toán:|||61.000đ	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115hhgju.jpg	Thành tiền:|||15 000	TOTAL_COST|||TOTAL_COST
+mcocr_val_145114tqkcn.jpg	ĐC 212 Đường Trần Phú Cầm Phi|||29.48. 15/08/2020|||Tổng số thanh toán:|||39 5000	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ndmhc.jpg	Phúc Anh Minimart|||248 Cổ Bi - Gia Lâm - Hà Nội|||Ngày: 13-08-2020|||Cộng tiền hàng|||42,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115gglku.jpg	CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuy, Xã Phú Thị, Huyện Gia Lâm, TP Hà Nội|||Ngày: 11-08-2020|||Cộng tiền hàng|||99,800	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114hexkn.jpg	VinCommerce|||VM+ - QNH 1080-1062 Trần Phú|||Ngày bán: 13/08/2020 20:12|||TỔNG TIỀN PHẢI T.TOÁN|||84,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115yckpl.jpg	Vincommerce|||VM+ QNH Dự án KDC lần biển cọc 6|||Ngày bán: 22/08/2020 11:14|||TỔNG TIỀN PHẢI T.TOÁN|||5,100	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115uovzj.jpg	Chợ Sủi Phú Thị Gia Lâm|||Ngày: 13/08/2020-18:04|||Tổng tiền:|||148,990	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115mxzac.jpg	11/08/2020 22:00|||Cộng tiền hàng:|||157,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115jsatw.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020-12:28|||Tổng tiền:|||185,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115vbeyk.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 09:42:48 - 11/08/2020|||Tổng số thanh toán:|||79.500đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115wvwpr.jpg	THE COFFEE HOUSE|||403 Phan Huy Ích, P.14, Q.Gò Vấp|||Thời gian: 30.09.2020 08.29|||Thành tiền:|||35 000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115hoxvz.jpg	ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 21:32:54 - 07/08/2020|||Tổng số thanh toán:|||630.000đ	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115yhois.jpg	Vincommerce|||VM+ NDH 156 Trần Thái Tông|||Ngày bán: 13/08/2020 10:31|||TỔNG TIỀN PHẢI T.TOÁN|||127,800	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115hsphg.jpg	Tổng|||485.000đ	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115yqgrs.jpg	MINIMART ANAN|||Tổng tiền|||115,000	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115cfwch.jpg	Vincommerce|||VM+ DNH DỰ ÁN KDC LẤN BIỂN CỌC S|||Ngày bản: 12/08/2020 16:31|||TỔNG TIỀN PHẢI T.TOÁN|||227,339	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ymgcp.jpg	Vincommerce|||LINH THO THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THI THI THI THU MINH TIÊN A|||Ngày bán: 11/08/2020 11:12|||TỔNG TIỀN A GIAM|||63,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115gautg.jpg	Ngày: 13/08/2020-10:55|||Tổng tiền:|||3399000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115lxjsb.jpg	Vincommerce|||UnCommerce|||Ngày bán: 14/08/2020 17:05|||TỔNG TIỀN PHẢI T.TOÁN|||27,500	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ombnw.jpg	VinCommerce|||Q. Bắc Tử Liêm, TP Hà Nội|||Ngày bán: 14/08/2020 20:08|||TIỀN KHÁCH TRẢI|||305,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115wlqnc.jpg	Vincommerce|||TỔNG TIỀN PHẢI T.TOÁN|||870,864	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115uxvup.jpg	Tổng cộng:|||120,000	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115rdued.jpg	Vincommerce|||TỔNG TIỀN PHẢI T.TOÁN|||12,200	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115alfzq.jpg	18:38:23|||Noay: 19/09/2019|||Tong so tien thanh toan:|||22,457,00	TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115jheqn.jpg	MINIMART ANAN|||Tổng cộng:|||245,000	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115yxrtp.jpg	CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuy, Xã Phú Thị, Huyện Gia Lâm, TP Hà Nội|||Ngày: 12-08-2020|||Cộng tiền hàng|||45,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115iltth.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 09/08/2020-18:16|||Tổng tiền:|||295,524	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115xttfa.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||Tổng cộng:|||349,000	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114hikwd.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 17/08/2020-18:51|||Tổng tiền:|||195,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115tijka.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lậm|||Ngày: 12/08/2020-15:13	SELLER|||ADDRESS|||TIMESTAMP
+mcocr_val_145115roove.jpg	Vincommerce|||1|||Ngày bán: 15/08/2020 11:03|||TỔNG TIỀN PHẢI T.TOÁN|||48,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ccpwc.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 13/08/2020-16:57|||Tổng cộng:|||64,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115vppsd.jpg	MINIMART ANAN|||Chợ Sủi Phu Thị Gia Lam|||Ngày: 11/08/2020-16:28|||Tổng cộng:|||87,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115czygu.jpg	Guitar Cafe|||28 Phan Chu Trinh, Hiệp Phú, Quận 9, Hồ|||Ngày lập: 03/10/2020|||Thành tiền||| 65,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115jnozb.jpg	Ngày bán: 10/08/2020 06:12|||TỔNG TIỀN PHẢI T.TOÁN|||197,300	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115tuidk.jpg	Ngày: 08/08/2020 (08:14|||Tổng thanh toán|||120.000đ	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115sxwhn.jpg	Tổng tiền|||334,000	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115waven.jpg	110101010/ 01/2020 22108100|||Tổng Tiền|||16,633,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114xmicn.jpg	CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuy, Xã Phú Thị, Huyện Gia Lâm, TP Hà Nội|||Ngày: 14-07-2020|||Cộng tiền hàng|||660,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115cgdhv.jpg	Tổng cộng:|||221,000	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115eoxbk.jpg	TIỀN KHÁCH TRẢ|||55,400	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115mqnlc.jpg	13/08/2020 - 21:52|||Cộng tiền hàng:|||32,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115bhyjk.jpg	MINIMART ANAN|||Tổng tiền:|||492,016	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115pnkpx.jpg		
+mcocr_val_145115ukoor.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020-16:33|||Tổng tiền:|||44,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115jasck.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 11/08/2023|||Tổng cộng:|||67,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115xmvjr.jpg	VinCommerce|||Phi Phi Tiến Điền TP. Ciến Hu, Quan|||Ngày bản: 14/08/2020 10:10|||TỔNG TIỀN PHẢI T.TOÁN|||695,413	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115hhxdq.jpg	Vincommerce|||Vincommerce|||Ngày bán: 15/08/2020 10:02|||TỔNG TIỀN PHẢI T.TOÁN|||40,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115xcppm.jpg	Vincommerce|||VM+ QNH TỔ 7, KHU MINH TIẾN A|||Ngày: 08/08/2020|||Thời gian: 20:52	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115klteo.jpg	Vincommerce|||QNH QNH Dự án quỹ đất đường sắt|||Ngày bán: 15/08/2020 11:44|||TỔNG TIỀN PHẢI T.TOÁN|||113,896	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115inzsg.jpg	TỔ 7 NHU KINH TIẾN A PHO|||15-08/2020 11:01:22|||HẠN: 2021/12/11|||TỔNG:|||200.000 Đ	ADDRESS|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115gkzyz.jpg	Vincommerce|||Wincommerce|||Ngày bán: 14/08/2020 17:38|||TỔNG TIỀN PHẢI T.TOÁN|||40,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115nyxzm.jpg	Guitar Cafe|||28 Phan Chu Trinh, Hiệp Phú, Quận 9, Hồ|||Ngày lập: 03/10/2020|||Thành tiền||| 50,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115bcojo.jpg	Tổng số thanh toán:|||13.000đ	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115irmak.jpg	Chợ Sủi Phú Thị Gia Lâm|||Ngày: 13/08/2020-19:00|||Tổng cộng:|||195,500	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114anqqj.jpg	16-08-2020|||10:36|||GROSS TOTAL|||305,000	TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115yijqt.jpg	VinCommerce|||TỔNG TIỀN PHẢI T.TOÁN|||91,500	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114budzl.jpg	MINIMART ANAN|||Chợ Sùi Phú Thị Gia Lâm|||Ngày: 13/08/2020-10:42|||Tổng cộng|||100 84,500	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115bdssz.jpg	VinCommerce|||QNH ÔNH 1080-1062 Trần Phú|||Ngày bán: 33/ 08/2020 20:59|||TỔNG TIỀN PHẢI T.TOÁN|||80,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115zheoi.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||10 10:10:00/10:07|||Tổng cộng:|||28,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115esxfn.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||gian:10:11: 18 - 11/08 /2020|||Tổng số thanh toán:|||45.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115qnqtp.jpg	CỬA HÀNG NĂM OÁNH|||Ngày: 10-08-2020|||Cộng tiền hàng|||165,000	SELLER|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115wfojm.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 15/08/2020-18:09|||Tổng cộng|||121,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115shjvb.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 17/08/2020-20:02|||Tổng tiền:|||310,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115nqvgh.jpg	Vincommerce|||Vincommerce|||Ngày 10/08/2020|||Thời gian: 22:08	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115pthcj.jpg	TỔ 7 NHU MINH TIẾN A,P.CÁ|||11/08/2020 10:10:30	ADDRESS|||TIMESTAMP
+mcocr_val_145115zpcjo.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 13/08/2020-19:36|||Tổng cộng:|||110,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115lpzol.jpg	Vincommerce|||VM+ QNH TỔ 7, KHU MINH TIẾN A|||Ngày băn: 10/08/2020 10:36|||TỔNG TIỀN PHẢI T.TOÁN|||65,900	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115buoti.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020-14:29|||Tổng cộng:|||148,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115fgfau.jpg	MINIMART ANAN|||Tổng tiền:|||64,000	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115vxzfr.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 09/08/2020-09:15|||Tổng cộng |||93,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115obsjf.jpg	SIEU THI BACH HOA TONG HOP|||Số 5 Cẩm Tây - Cẩm Phả - QN|||Giờ làm việc: 7:30:00|||Tổng cộng (đã gốm VAT)|||26,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115abnlz.jpg	Tổng thanh toán|||125.000đ	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115sayht.jpg	Vietcombank|||16:17:19	SELLER|||TIMESTAMP
+mcocr_val_145115ambgj.jpg	Ngày bản: 09/08/2020 08.03|||TỔNG TIỀN PHẢI T.TOÁN|||31,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115rfhqm.jpg	Chợ Sủi Phú Thị Gia Lâm|||Ngày: 09/08/2020-19:36|||Tổng cộng:|||13,000	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115mvstz.jpg	Chợ Sủi Phú Thị Gia Lâm|||Ngày: 13/08/2020-02:58|||Tổng cộng:|||138,000	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115mcnhe.jpg	VinCommerce|||VinCommerce|||Ngày bán: 15/08/2020 10:04|||TỔNG TIỀN PHẢI T.TOÁN|||99,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115wxton.jpg	Vincommerce|||Vincommerce|||Ngày bán: 13/08/2020 11:44|||TỔNG TIỀN PHẢI T.TOÁN|||10,800	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115jqdkf.jpg	CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuỵ Xã Phú Thi Huyên Gia Lâm, IP Nam The Nam|||Ngày: 13-08-2020|||Cộng tiền hàng|||75,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115acweu.jpg	MINIMART ANAN	SELLER
+mcocr_val_145115bexih.jpg	MINIMART ANAN|||Tổng cộng:|||91,000	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115llmkx.jpg	Co.op Food HN THE K-PARK|||Saigon Co. op|||13:14:26|||Noay: 30/09/2019	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115rltwx.jpg		
+mcocr_val_145115gemfs.jpg	Vincommerce|||InCommerce|||Ngày bán: 13/08/2020 18:08|||TỔNG TIỀN PHÁI T.TOÁN|||115,700	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115jxfng.jpg	Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020-17:36|||Tổng tiền:|||162,000	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114ixmyt.jpg	THỨC COFFEE|||22 Quang Trung, P10, Gò Vấp|||30.03.2019|||Tiền Thanh Toán:|||35 000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115pxbbr.jpg	NHÀ SÁCH GD-TC CẨM PHẢN|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||gian:18:59: 14 - 09/08 /2020|||Tổng số thanh toán:|||18.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115bxehb.jpg	Nhà Hàng Aozora Sushi|||153 Thụy Khuê, Quận Tây Hồ, Thành phố Hà Nội|||15-08-2020 12:44|||15-08-2020 13:07|||Tổng|||886.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115qolwv.jpg	CO.OPSMILE - A1 KHU B TH CHA CHA CHU CHI CHU CHU CHU CHU CHU CHUNG|||Phuong Dong Hoa, Thi xa Di An, Tinh Binh Duong|||Ngay: 24/07/2020|||Gio: 21:25:23|||TONG CONG|||40,500	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115zgjlc.jpg	VinCommerce|||VinCommerce|||Ngày bán: 14/08/2020 22:05|||TỔNG TIỀN PHẢI T.TOÁN|||21,700	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115dxgiq.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 08:48:24-14/08/2020|||Tổng số thanh toán|||95.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115azqhi.jpg	MINIMART ANAN|||Tổng tiền|||192,000	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ddutz.jpg	+ Tiền mặt VNĐ|||125 000	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115kkzjy.jpg	THE COFFEE HOUSE|||403 Phan Huy Ích, P.14, Q.Gò Vấp|||Thời gian: 01.10.2020 07.28|||Thành tiền:|||35 000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ycgof.jpg	186 Cây Trâm, P.11, Q.Gò Vấp, TP.HCM|||02.10.2020 15.25|||Tiền Thanh Toán:|||19 000	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115bfzur.jpg	VinCommerce|||Tổ 7, Khu Minh Tiên A|||Ngày bán: 14/08/2020 19:31|||TỔNG TIỀN PHẢI T.TOÁN|||55,500	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115mnmrc.jpg	THỨC COFFEE|||22 Quang Trung, P10, Gò Vấp|||31.03.2019|||Tiền Thanh Toán:|||35 000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ishek.jpg	Vincommerce|||Vincommerce|||Ngày bán: 14/08/2020 20:26|||TỔNG TIỀN PHẢI T.TOÁN|||26,900	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115bflng.jpg	Vincommerce|||VM+ 10001080-1082 Trấn Phú|||Ngày bán: 13/08/2020 20:19|||TỔNG TIỀN PHẢI T.TOÁN|||72,335	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114qwggd.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||10 10:10:00/10:07|||Tổng cộng:|||28,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115pwzhy.jpg	VinCommerce|||QNH QNH SỐ 463 TỔ 66 Khu Diêm Thủy|||Ngày bán: 15/08/2020 11:10|||TỔNG TIỀN PHẢI T.TOÁN|||210,294	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115zzaix.jpg	Payoo|||TỔ 7 KHU MINH TIÊM A,P.CÁ THÁ|||0010100000010/ 08/2020 22:01:11|||19:00:00|||Ngày: 13/08/2020|||16:01|||19:57|||19:38|||20:11|||20:39|||TAI QUẦY|||380,000	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115knxyy.jpg	SIEU THI BACH HOA TONG HOP|||SIEU THI BACH HOA TONG HOP|||2 22:00|||Ngày: 10/08/2020 -10:|||Tổng cộng (đã gồm VAT)|||15,800	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115jlcvk.jpg	Ngày: 08, 08/2020 (07-48	TIMESTAMP
+mcocr_val_145114gpkup.jpg	Ngày: 15/08/2020-20:18|||Tổng cộng:|||24,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115diyls.jpg	Vincommerce|||Vincommerce|||Ngày bán: 10/08/2020 06:18|||TỔNG TIỀN PHẢI T.TOÁN|||18,200	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115yozfx.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 13/08/2020-18:08|||Tổng cộng:|||95,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115iibqy.jpg	Vincommerce|||Vincommerce|||Ngày bán: 15/08/2020 10:59|||TỔNG TIỀN PHẢI T.TOÁN|||58,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ohgnu.jpg	Tổng số|||52,35	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115wsgas.jpg	Vincommerce|||19 P. Cẩm Bình, TP. Cẩm Phà, QNH|||Ngây: 14/08/2020|||Thời gian: 11:11	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115azksw.jpg	MINIMART ANAN|||Tổng cộng:|||283,000	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115tafia.jpg	Phương Ốc Hải Phòng|||09-07-2020 20137	ADDRESS|||TIMESTAMP
+mcocr_val_145115itmlf.jpg	Chợ Sủi Phú Thị Gia Lâm|||Ngày: 16/08/2020-17:42|||Tổng cộng:|||178,008	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115qnjus.jpg	Vincommerce|||Vincommerce|||Ngày: 09/08/2020|||Thời gian: 07:47	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115kexzv.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||số thanh toán|||716.000đ	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115bttrw.jpg	Phúc Anh Minimart|||248 Cổ Bi - Gia Lâm - Hà Nội|||Ngày: 14-08-2020|||Chiết khấu|||160,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115nrgnd.jpg	Saigon Co.op|||Saigon Co.op|||Ngay: 20/09/2019|||10:23:36|||10:24 25051|||Tong so tien thanh toan:|||38,774,00	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115rrirk.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm Như|||Ngày: 10/08/2020-18:22|||Tổng cộng|||79,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115plprx.jpg	Thôn Phú Thuy, Xã Phú Thị, Huyện Gia Lâm, TP Hà Nội|||Ngày: 11-08-2020|||Cộng tiền hàng|||88,000	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115hspyd.jpg	Vietcombank|||ĐỊA CHỈ ĐAI LY::|||17:26:28|||30/04/2020|||MÀ CHUẨN CHI:|||126128	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115wssmm.jpg	Ngày: 2020-07-25 13:46:52|||(In): 2020-07-25 13:46:52	TIMESTAMP|||TIMESTAMP
+mcocr_val_145115fostp.jpg	Vincommerce|||Vincommerce|||Ngày bán: 15/08/2020 07:20|||TỔNG TIỀN PHẢI T.TOÁN|||17,700	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115rtkgt.jpg		
+mcocr_val_145115jcruz.jpg	13/08/2020|||Tổng Tiền|||6,319,098	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115wvyel.jpg	Vincommerce|||Vinh TTTM Chợ Sủi|||Ngày bán: 14/08/2020 17:26|||TIỀN KHÁCH TRẢ|||193,920	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115qslfj.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 20:31:25 - 14/08/2020|||Tổng số thanh toán:|||353.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115lflcz.jpg	VinCommerce|||TỔNG TIỀN PHẢI T.TOÁN|||9,500	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114gmmfs.jpg	MINIMART ANAN|||Ngày: 16/08/2020-15:11|||Tổng cộng:|||92,000	SELLER|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115fdkxk.jpg	Vincommerce|||VN4 số 3 Đại học Hà Nội|||Ngày bán: 13/08/2020 17:52|||TỔNG TIỀN PHẢI T.TOÁN|||15,500	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115puijt.jpg	VinCommerce|||VM+ QNH Dự án quỹ đất đường sắt|||Ngày bán: 15/08/2020 11:15|||TỔNG TIỀN PHẢI T.TOÁN|||12,320	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115qzmtr.jpg	Chợ Sùi Phú Thị Gia Lâm|||Ngày: 09/08/2020-21:02|||Tổng tiền:|||26,000	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115zjqeo.jpg	Vincommerce|||Vincommerce|||Ngày bán: 15/08/2020 10:02|||TỔNG TIỀN PHẢI T.TOÁN|||47,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115snubu.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trấn Phú Cầm Pháp|||Thời gian: 16:38.26 - 14/08/2020|||Tổng số thanh toán:|||18.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115hupmg.jpg	Thôn Phú Thuy, Xã Phú Thị, Huyện Gia Lâm, TP Hà Nội|||Ngày: 11-08-2020|||Cộng tiền hàng|||30,250	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115qvyjg.jpg	MINIMART ANAN|||0000000000000000002010/ 08/2020-16:51|||Tiền khách trả:|||500,000	SELLER|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115uhcny.jpg	18:38:23|||Ngay: 19/09/2019|||Tong so tien thanh toan:|||22,457,00	TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115onwzn.jpg	Vincommerce|||Tổ 7, Khu Minh Tiền A|||Ngày bản: 09/08/2020 21:30|||TỔNG TIỀN PHẢI T.TOAN|||200,600	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115alcfe.jpg	Saigon Co.op|||10:30 27938	SELLER|||TIMESTAMP
+mcocr_val_145115kkeqh.jpg	MINIMART ANAN|||Ngày: 13/08/2020-17:55|||Tổng cộng:|||92,000	SELLER|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115uwfxl.jpg	Ngày: 10/08/2020 (08:25|||Tổng thanh toán|||145.000đ	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115fbjob.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phải|||Thời gian: 09:36:56 - 14/08/2020|||Tổng số thanh toán:|||40.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ardez.jpg	VinCommerce|||VinCommerce|||Thời gian: 17:51|||Ngày: 13/08/2020	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115cgoeo.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 16/08/2020-16:25|||Tổng cộng:|||83,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115yfbua.jpg	Vincommerce|||P. Cầm Bình TP. Cẩm Phả, (Minh)|||Ngày bán: 13/08/2020 18:49|||TỔNG TIỀN PHẢI T.TOÁN|||148,400	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115bxsnt.jpg	THE COFFEE HOUSE|||403 Phan Huy Ích, P.14, Q.Gò Vấp|||Thời gian: 03.10.2020 08.52|||Thành tiền:|||35 000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115wicxb.jpg	CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuy, Xã Phú Thị, Huyện Gia Lâm, TP Hà Nội|||Ngày: 12-08-2020	SELLER|||ADDRESS|||TIMESTAMP
+mcocr_val_145115opevw.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020-17:14|||Tổng tiền:|||317,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115gvwps.jpg	213 xã Đàn, Đồng Đa, Hà Nội|||14.07.2020|||Thành tiền:|||145000	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115djbdi.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả Nhi|||gian:20:10: 06 - 14/08 /2020|||Tổng số thanh toán:|||315.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115lmfoo.jpg	THÔNG: 13/06/2020|||tổng thuế|||8,263,302	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115rxijw.jpg	Vincommerce|||TP. Cầm Phà, T. Quảng Hinh|||Ngây bán: 12/08/2020 16:47|||TIỀN KHÁCH TRẢ|||76,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115buhji.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020-16:57|||Tổng cộng:|||79,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115uvjbp.jpg	Tổng cộng:|||92,000	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115whuii.jpg	Vietcombank|||ĐỊA CHỈ MAI LÝ::|||06:56:55|||01/05 /2820|||MÀ QUẢN CHI:|||929683	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115oitgx.jpg	TỔNG|||114,800	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115vqpba.jpg	THE COFFEE HOUSE|||403 Phan Huy Ích, P.14, Q.Gò Vấp|||Thời gian: 01.10.2020 13.19|||Thành tiền:|||52000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115dvysp.jpg	Saigon Co.op|||ket hop dich vu tren o dat H-CT2 thuoc|||11:12:15|||Ngay: 23/09/2019|||Tong so tien thanh toan:|||53,889,00	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115jggpy.jpg	CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuy, Xà Phú Thị, Huyện Gia Lám, TP Hà Nội Thui Tinh|||Ngày: 10-08-2020|||Cộng tiền hàng|||18,168	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ircfq.jpg	Co.op Food HN THE|||14:33:45|||Ngay: 20/09/2019|||Tong so tien thanh toan:|||189,000,000	SELLER|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115akhkf.jpg	Ngay: 20/09/2019|||14:33:45|||Tong so tien thanh toan:|||189,000,00	TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115tmacm.jpg	Vincommerce|||Vincommerce|||Ngày bán: 14/08/2020 08:53|||TỔNG TIỀN PHẢI T.TOÁN|||57,296	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ilmav.jpg	Vincommerce|||G|||Ngày bán: 16/08/2020 18:36|||TỔNG TIỀN PHẢI T.TOÁN|||282,764	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115jetch.jpg	13/08 /2928|||Tổng Tiền|||6,963,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115pyxhp.jpg	CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuy, Xã Phú Thị, Huyện Gia Lâm, TP Hà Nội Trinh|||Ngày: 10-08-2020	SELLER|||ADDRESS|||TIMESTAMP
+mcocr_val_145115jafwy.jpg	Vincommerce|||QNH QNH 1060-1062 Trần Pháp|||Ngày: 15/08/2020|||Thời gian: 11:02	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115wyjlo.jpg	Tổng tiền:|||129,000	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115fpsxm.jpg	13/08/2020 - 20: 25|||Cộng tiền hàng:|||30,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114vuxdl.jpg	MINIMART ANAN|||Tổng cộng:|||148,500	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115kshez.jpg	Vincommerce|||P. Cầm Bình, TP. Cầm Phả, QNH|||Ngày bán: 13/08/2020 19:29|||TIỀN KHÁCH TRẢ|||11,755	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115pazzp.jpg	Vincommerce|||VM+ 1 QNH TỔ 7, KHU MINH TIẾN A NHA|||Ngày bán: 09/08/2020 21:23|||TỔNG TIỀN PHẢI T.TOÁN|||32,100	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ousyl.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020-14:45|||Tổng tiền:|||106,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114rqxas.jpg		
+mcocr_val_145115aeiqh.jpg	Ngày: 10-08-2020|||Cộng tiền hàng|||1070000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115sgylr.jpg	Phúc Anh Minimart|||248 Cổ Bi - Gia Lâm - Hà Nội|||Ngày: 11-08-2020|||Cộng tiền hàng|||88,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115rcjnw.jpg	Vincommerce|||UnCommerce|||Ngày bán: 15/08/2020 10:41|||TỔNG TIỀN PHẢI T.TOÁN|||49,500	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115zmeez.jpg	13-08/2020 20:37:55	TIMESTAMP
+mcocr_val_145115havhi.jpg	Vincommerce|||Vincommerce|||Ngày bán: 15/08/2020 10:02|||TỔNG TIỀN PHẢI T.TOÁN|||40,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115uprww.jpg	Vincommerce|||Vincommerce|||Ngày bán: 10/08/2020 10:19|||TỔNG TIỀN PHẢI T.TOÁN|||19,950	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ydjya.jpg	THỨC COFFEE|||22 Quang Trung, P10, Gò Vấp|||24.03.2019|||Tiền Thanh Toán:|||55 000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115nwecn.jpg	Vincommerce|||VM+ - QNH TỔ 7, KHU MINH TIẾN Á|||09/08/2020 18:11|||24/08/2020	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115ikgqr.jpg	TỔNG|||70,000	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115zoetr.jpg	11/08/2020 - 21:33|||Cộng tiền hàng:|||42,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115cozxn.jpg	Tổng tiền (VAT):|||87 300	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115yracs.jpg	MARUMART|||Tổng tiền thanh toán|||149,000	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ltpkt.jpg	Ngày: 10/08/2020 (09.31|||Tổng thanh toán|||120.000đ	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115aozns.jpg	Brgmartin|||Ngày: 12/08/2020 16:57|||Tổng tiền hàng|||81,232	SELLER|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114qjftu.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||Thời gian: 10:12:25 - 15/08/2020|||Tổng số thanh toán:|||20.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115eqtqa.jpg	Vincommerce|||Vincommerce|||Ngày bán: 12/08/2020 20:49|||TỔNG TIỀN PHẢI T.TOÁN|||8,400	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115iyrjm.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||gian:10:19: 05 - 11/08 /2020|||Tổng số thanh toán:|||5.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115rirpb.jpg	CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuy, Xã Phú Thi, Huyện Gia Lâm, TP Hà Nội|||Ngày: 11-08-2020|||Cộng tiền hàng|||70,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115vvpac.jpg	Co.op Food HN THE K-PARK|||Co.op Food HN THE K-PARK|||Ngay: 17/09/2019|||10:51:21|||10:52 27529|||Tong so tien thanh toan:|||22,391,00	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115kqczg.jpg	THE COFFEE HOUSE|||403 Phan Huy Ích, P.14, Q.Gò Vấp|||Thời gian: 30.09.2020 09.34|||Thành tiền:|||52000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115uvcfc.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC 212 Đường Trần Phú Giảm Phả|||13/08/2020|||Tổng số thanh toán:|||23.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ejbhg.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 17/08/2020-17:29|||Tổng cộng:|||71,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115xtndp.jpg	MINIMART ANAN|||Tổng cộng|||82,000	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115nliti.jpg	TỔ 7 QNH NINH TIẾN A P. CÁ|||11-18-08/2020 20:40:00|||HAN: 2021/12/31|||TỔNG:|||100.000 Đ	ADDRESS|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115cvslb.jpg	TTTM VAN HO-SIEU THI SEIKA MART|||12/08/2020|||15:13|||TONG GIÁ TRỊ THANH TOAN: |||237,823	SELLER|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115xhbhb.jpg	Guitar Cafe|||28 Phan Chu Trinh, Hiệp Phú, Quận 9, Hồ|||Ngày lập: 04/10/2020|||Thành tiền||| 65,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115pqgzl.jpg	VinCommerce|||VM+ 1 QNH 112 Thanh Niên|||Ngày bán: 07/08/2020 10:11|||TIỀN KHÁCH TRẢ|||23,500	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115xfigv.jpg	Vietcombank|||ĐỊA CHỈ DÀI LY:|||18:45:09|||20/05/2020	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115nsict.jpg	CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuy, Xã Phú Thị, Huyện Gia Lâm, TP Hà Nội|||Ngày: 12-08-2020|||Cộng tiền hàng|||62,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115gozuc.jpg	VinCommerce|||VinCommerce|||Ngày bán: 15/08/2020 11:09|||TỔNG TIỀN PHẢI T.TOÁN|||8,600	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115hcdkj.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 10/08/2020-14:21|||Tổng cộng:|||122,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114aszbc.jpg	Vincommerce|||Vincommerce|||Ngày bán: 15/08/2020 11:07|||TỔNG TIỀN PHẢI T.TOÁN|||22,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115zwqxr.jpg	Ngày bán: 15/08/2020 09:11|||TỔNG TIỀN PHẢI T.TOÁN|||400,881	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115kenle.jpg	Ngày: 10/08/2020 (09 11 CH - 09:11|||Tổng thanh toán|||50.000đ	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115yfvgw.jpg	Vincommerce|||VM+ GNH 112 Thanh Niên|||Ngày bán: 10/08/2020 16:25|||TỔNG TIỀN PHẢI T.TOÁN|||74,600	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114zizpx.jpg	TUYN KHACHITIAA|||200,000	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115bieem.jpg	Vincommerce|||Vincommerce|||Ngày: 15/08/2020|||Thời gian: 08:51	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115drrnr.jpg	Vincommerce|||Wincommerce|||Ngày: 13/08/2020|||Thời gian: 15:59	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115jiuzz.jpg	CHAMPI|||Tòa nhà C1 - KTX Khu B - ĐHỌG TP.HCM|||14.05.2019|||Tiền Thanh Toán:|||16 000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115cessj.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 17/08/2020 -1612|||Tổng cộng:|||20,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114lbdpw.jpg	Ngày: 17/08/2020-16:51|||Tổng cộng:|||8,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115gpesv.jpg	Vincommerce|||Vincommerce|||Ngày bán: 08/08/2020 08:38|||TỔNG TIỀN PHẢI T.TOÁN|||40,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115twueq.jpg	Wincommerced|||VIY - QNH 112 Thanh Niên|||Ngày bán: 09/08/2020 16:19|||TIỀN KHÁCH TRẢ|||11,500	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115nypff.jpg	Ngày: 17/08/2020-16:55|||Tổng cộng:|||69,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ljgll.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||gian:20: 11.04 - 13/08/2020|||Tổng số thanh toán|||90.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115dbbem.jpg	12/08/2020|||THÔNG: 12/08/2020 22:05|||Tổng Tiền|||31,440,000	TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115majhy.jpg	Chợ Sủi Phú Thị Gia Lâm|||Ngày: 13/08/2020-18:11|||Tổng cộng:|||34,000	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ryaxg.jpg	Tổng Tiền|||7,697,000	TOTAL_COST|||TOTAL_COST
+mcocr_val_145115zqplz.jpg	Vincommerce|||Ngày bán: 04/08/2020 19:44|||TỔNG TIỀN ĐÃ GIẢM|||184,887	SELLER|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115kbclm.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||Đế: 212 Đường Trần Phú-Cẩm Phản|||Thời gian: 09:44:33 - 14/08/2020|||Tổng số thanh toán: |||75.200đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ogztm.jpg	PHỐ MỎ|||PHỐ MỎ|||13/08/2020 - 20: 32|||Cộng tiền hàng:|||25,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115pfgda.jpg	CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuy, Xà Phú Thị, Huyện Gia Lâm, TP Hà Nội|||Ngày: 11-08-2020|||Cộng tiền hàng|||122,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115yecqs.jpg	Vincommerce|||Wincommerce|||Ngày bán: 15/08/2020 07:42|||TỔNG TIỀN PHẢI T.TOÁN|||319,500	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115wfgnj.jpg	13/08/2020 - 20: 32|||Cộng tiền hàng:|||35,000	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114yeyft.jpg	Vietcombank|||18-05/2020|||20:20:35	SELLER|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115szcuq.jpg	MINIMART ANAN|||Tổng cộng:|||58,000	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115zeprd.jpg	CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuy, Xã Phú Thị, Huyện Gia Lâm, TP Hà Nội|||Ngày: 12-08-2020|||Cộng tiền hàng|||124,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115gzvde.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 17/08/2020-08:21|||Tổng tiền:|||132,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ksmqh.jpg	19:09:42	TIMESTAMP
+mcocr_val_145115upgly.jpg	VinCommerce|||VinCommerce|||Ngày bán: 15/08/2020 10:38|||TỔNG TIỀN PHẢI T.TOÁN|||25,600	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115zlcqs.jpg	Chợ Sủi Phú Thị Gia Lâm|||Ngày: 11/08/2020-18:16|||Tổng tiền:|||418,008	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115djrgn.jpg	WinCommerce|||VM+ NN 1060-1062 Trân Phú|||Ngày bán: 14/08/2020 21:17|||TỔNG TIỀN PHẢI T.TOÁN|||48,700	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115lsmdd.jpg	CỬA HÀNG NĂM OÁNH|||Thôn Phú Thuy, Xã Phú Thị, Huyện Gia Lâm, TP Hà Nội|||Ngày: 10-08-2020|||Cộng tiền hàng|||62,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115vmqbx.jpg	NHÀ SÁCH GD-TC CẨM PHẢN|||ĐC: 212 Đường Trấn Phú-Cẩm Phả|||Thời gian: 15:35:45 - 14/08/2020|||Tổng số thanh toán.|||245.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115cfxhw.jpg	13/08/2000 12:41 .48|||17:00 .00|||20001012/ 08/2020|||20:19|||TẠI QUẦY|||620.000 Đ	TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115dztjo.jpg	Vincommerce|||VM+ TONH TỔ 7, KHU MINH TIÊN A|||Ngày bán: 14/08/2020 12:08|||TỔNG TIỀN PHẢI T.TOÁN|||20,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115addwh.jpg	Vincommerce|||VM+ 6NH 600 Trần Phú|||Ngày bán: 14/08/2020 10:05|||TỔNG TIỀN PHẢI T.TOÁN|||45,500	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114tzwwz.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 11/08/2020-16:55|||Tổng cộng:|||90,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115qkbbq.jpg	MINIMART ANAN|||Ngày: 16/08/2020-18:10|||Tổng tiền:|||159,000	SELLER|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115jeqsk.jpg	Saigon Co.op|||Saigon Co.op|||10:27:16|||20/09/2019|||10:27 25051|||Tong so tien thanh toan:|||24,500,00	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115hjkdl.jpg	Vincommerce|||VM+ QNH Dư Án QUY ĐÂT ĐƯỜNG SAI|||Ngày bán: 15/08/2020 10:17|||TỔNG TIỀN PHẢI T.TOÁN|||12,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115hkbzp.jpg	Vincommerce|||Vincommerce|||Ngày bán: 15/08/2020 11:15|||TỔNG TIỀN PHẢI T.TOÁN|||62,300	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114uwzzt.jpg	VinCommerce|||Ngày bán: 18/08/2020 19:06|||TỔNG TIỀN PHẢI T.TOÁN|||157,471	SELLER|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115capyt.jpg	MINIMART ANAN|||Tổng tiền:|||235,008	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115deeje.jpg	04/07/2020 19:57:38|||Tổng tiền hàng:|||193,600	TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115fkifm.jpg		
+mcocr_val_145115xekbq.jpg	Vincommerce|||P. Cấm Bình, TP. Cầm Phả, QNH|||Ngày bán: 14/08/2020 09:20|||TỔNG TIỀN PHẢI T.TOÁN|||30,952	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115thtzv.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 09/08/2020-17:23|||Tổng cộng:|||107,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114qcosd.jpg	Vincommerce|||Vi tho tho thu nhi tiến|||Thời gian: 19:49|||Ngày: 13/08/2020	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115oycsy.jpg	PHỐ MỎ|||PHỐ MỎ|||13/08/2020 - 20: 01|||Cộng tiền hàng:|||90,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115hunyr.jpg	Vincommerce|||Vincommerce|||Ngày bán: 14/08/2020 20:07|||TỔNG TIỀN PHẢI T.TOÁN|||55,500	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114otgoc.jpg	VinCommerce|||Chi Thu Trung TP. Cia Hu, Cam|||Ngày bản: 13/08/2020 15:03|||TỔNG TIỀN PHẢI T.TOÁN|||7,800	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115xhlou.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||ĐC: 212 Đường Trần Phú-Cẩm Phả|||gian:17:17: 16 - 07/08 /2020|||Tổng số thanh toán:|||5.000đ	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115uvyfd.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020-12:40|||Tổng tiền:|||62,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115npqic.jpg	VinCommerce|||VM+ QNH TÔ 7, KHU MINH TIỀN KHÁ|||Ngày bán: 09/08/2020 16:19|||TỔNG TIỀN PHẢI T.TOÁN|||49,500	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115mjlgc.jpg	Vincommerce|||TỔNG TIỀN PHẢI T.TOÁN|||29,000	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115icpqa.jpg	Vincommerce|||Vincommerce|||Ngày: 14/08/2020|||Thời gian: 19:45	SELLER|||ADDRESS|||TIMESTAMP|||TIMESTAMP
+mcocr_val_145115wnvtr.jpg	Vincommerce|||TỔNG TIỀN Ả GIẢM|||20,800	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115rzqdb.jpg	244/23a Huỳnh Văn Bánh, P.11, Qupn|||04.10.2020 09.54|||04.10.2020 09.57|||Tổng tiền (VAT):|||113 000	ADDRESS|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115scqcn.jpg	Vincommerce|||TỔNG TIỀN Ả GIẢM|||103,235	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115prqdp.jpg	MINIMART ANAN|||Chợ Sủi Phú Thị Gia Lâm|||Ngày: 16/08/2020-15:21|||Tổng cộng:|||22,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115ibwgn.jpg	13:41:39|||12/06/2019|||14:05 25051|||Tong so tien thanh toan:|||25,056,00	TIMESTAMP|||TIMESTAMP|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115voxmg.jpg	NHÀ SÁCH GD-TC CẨM PHẢ|||Tổng số thanh toán:|||251.000đ	SELLER|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115fqwje.jpg	Vincommerce|||Vincommerce|||Ngày bán: 14/08/2020 20:11|||TỔNG TIỀN PHẢI T.TOÁN|||322,800	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115hjpun.jpg	Vincommerce|||VM+ QNH TỔ 7, KHU MINH TIẾN A|||Thời gian: 16:11	SELLER|||ADDRESS|||TIMESTAMP
+mcocr_val_145115hojip.jpg	Vincommerce	SELLER
+mcocr_val_145115wiieg.jpg	Vincommerce|||Vincommerce|||Ngày bán: 15/08/2020 10:40|||TỔNG TIỀN PHẢI T.TOÁN|||66,500	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115bxrpi.jpg	Vincommerce|||Mincommerce|||Ngày bán: 15/08/2020 07:47|||TỔNG TIỀN PHẢI T.TOÁN|||14,208	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145114ledwd.jpg	VinCommerce|||Viên Viên Dự án KDC lần biển cọc b|||Ngày bán: 12/08/2020 17:08|||TỔNG TIỀN PHẢI T.TOÁN|||12,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115hwtgl.jpg	CỬA HÀNG NĂM OÁNH|||Ngày: 11-08-2020|||Cộng tiền hàng|||9,000	SELLER|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115lkwqh.jpg	Chợ Sủi Phú Thị Gia Lâm|||Ngày: 13/08/2020-16:11|||Tổng tiền:|||113,000	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115pqmli.jpg	Chợ Sủi Phú Thị Gia Lâm|||Ngày: 12/08/2020-16:44|||Tổng cộng:|||22,000	ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST
+mcocr_val_145115limjy.jpg	VinCommerce|||VM+ - QNH Dự án KDC lấn biên cọc 6|||Ngày bán: 14/08/2020 21:32|||TỔNG TIỀN PHẢI T.TOÁN|||132,000	SELLER|||ADDRESS|||TIMESTAMP|||TOTAL_COST|||TOTAL_COST

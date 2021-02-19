@@ -1,0 +1,50 @@
+FROM nvidia/cuda:10.1-devel-ubuntu18.04
+
+RUN apt update 
+
+RUN apt-get update && apt-get install -y python3-pip
+
+RUN pip3 install scikit-build && \
+    pip3 install cmake
+
+RUN apt-get install --assume-yes git
+
+# RUN pip3 install torch==1.4.0 torchvision==0.5.0
+RUN pip3 install torch==1.6.0+cu101 torchvision==0.7.0+cu101 -f https://download.pytorch.org/whl/torch_stable.html
+
+RUN pip3 install pyclipper==1.2.0 scikit-image==0.17.2 tqdm==4.50.0 tensorboard==1.14.0 colorlog==4.2.1 Polygon3 && \
+    pip3 install -U scikit-learn scipy matplotlib Flask==1.1.2
+
+RUN pip3 install opencv-python -vvv
+
+COPY ./submit_task2 /e2e_submit 
+
+WORKDIR /e2e_submit
+
+RUN apt update
+
+RUN apt-get install -y locales locales-all
+ENV LC_ALL en_US.UTF-8
+ENV LANG en_US.UTF-8
+ENV LANGUAGE en_US.UTF-8
+
+RUN pip3 install easydict imutils pandas Pillow matplotlib numpy scipy requests Cython && \
+    pip3 install --upgrade && \
+    pip3 install scikit-learn && \
+    pip3 install --upgrade && \
+    pip3 install --upgrade pip && \
+    pip3 install tqdm recognizers_text recognizers_date_time pyyaml lmdb
+
+RUN pip3 install flask-restful==0.3.8 Flask-Cors==3.0.10 shapely==1.7.1 Levenshtein==0.12.0 unidecode==1.1.2 gdown==3.12.2
+
+RUN cd /e2e_submit/detect_receipt_api && \
+    pip3 install -e detectron2
+
+RUN cd /e2e_submit/rotated_receipt_90_180 && \
+    gdown --id 1M68MVVN4RBVADqOjx-dl-GfMZrVGKv-I && \
+    cd /e2e_submit/detect_receipt_api/models && \
+    gdown --id 1B7UQpRdpTz5Nsocqg4aYoTIwJxvB-ot6
+
+RUN pip3 install vietocr==0.3.5 dataclasses
+
+CMD python3 build_full.py

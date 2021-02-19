@@ -1,0 +1,22 @@
+2020-12-16 09:43:43.076 INFO checkpoint - load: Loading checkpoint from models/faster_RCNN_R_101_FPN_35AP_reciept_90AP.pth
+2020-12-16 09:43:43.496 INFO _internal - _log:  * Running on http://0.0.0.0:5050/ (Press CTRL+C to quit)
+2020-12-16 09:43:47.219 ERROR app - log_exception: Exception on /predict [POST]
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/conda/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/conda/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/opt/conda/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/opt/conda/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/conda/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "service.py", line 78, in predict_image
+    list_boxes, list_scores, list_classes = predict(image, PREDICTOR, CLASSES)
+  File "/api_detec_corner/detectron_api/src/predict.py", line 37, in predict
+    class_id = list_labels[int(classes[i])]
+IndexError: list index out of range
+2020-12-16 09:43:47.220 INFO _internal - _log: 192.168.20.163 - - [16/Dec/2020 09:43:47] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -

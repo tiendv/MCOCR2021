@@ -1,0 +1,29 @@
+SERVICE:
+    SUBMIT: True
+    VISUALIZE: False
+    EXTRACT_INFO: True
+
+    DATA_BTC_CSV: 'raw_data_img/mcocr_train_df.csv'
+    
+    # TASK1_URL: 'http://service.mmlab.uit.edu.vn/receipt/task1/predict'
+    TASK2_URL: 'http://service.mmlab.uit.edu.vn/receipt/task2/predict'
+    TASK1_URL: 'http://service.aiclub.cs.uit.edu.vn/gpu150/pannet/predict'
+    # TASK2_URL: 'http://service.aiclub.cs.uit.edu.vn/gpu150/vietocr/predict'
+    DETECT_RECEIPT_URL: 'http://service.aiclub.cs.uit.edu.vn/receipt/ript_detect'
+    
+    DETECT_RECEIPT_FASTER_RCNN: False
+    ROTATED_RECEIPT: False
+    DETECT_TEXT_REG_TEXT: True
+    ROTATED_METHOD: 'deskew'
+    DETECT_TEXT: 'PANnet'
+    REG_TEXT: 'vietOCR'
+    
+    NUMBER_OF_THREADS: 1
+    OUTPUT_PATH: 'output_pipline'
+    OUTPUT_PATH_POST: 'output_pipline/post_processing'
+    OUTPUT_PATH_PRE: 'output_pipline/pre_processing'
+    OUTPUT_PATH_VISUAL: 'output_pipline/visualize'
+    OUTPUT_PATH_PRE_DETEC_RECEIPT: 'output_pipline/pre_processing/crop_detec_receipt'
+    OUTPUT_PATH_PRE_ROTATED_RECEIPT: 'output_pipline/pre_processing/rotated_receipt'
+    INPUT_IMAGES_NAME: 'test1'
+    

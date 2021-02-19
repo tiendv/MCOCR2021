@@ -1,0 +1,4 @@
+2020-12-16 09:47:43.818 INFO checkpoint - load: Loading checkpoint from models/faster_RCNN_R_101_FPN_35AP_reciept_90AP.pth
+2020-12-16 09:47:44.227 INFO _internal - _log:  * Running on http://0.0.0.0:5050/ (Press CTRL+C to quit)
+2020-12-16 09:47:51.370 INFO _internal - _log: 192.168.20.163 - - [16/Dec/2020 09:47:51] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2020-12-16 09:54:20.618 INFO _internal - _log: 192.168.20.163 - - [16/Dec/2020 09:54:20] "[37mPOST /predict HTTP/1.1[0m" 200 -

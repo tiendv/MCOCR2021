@@ -1,0 +1,13 @@
+SERVICE:
+    SERVICE_IP: "0.0.0.0"
+    SERVICE_PORT: 5000
+    TASK1_PORT: 5001
+    TASK2_PORT: 5002
+    TASK3_PORT: 5003
+    LOG_PATH: "logfile"
+    BACKUP_DIR: "backup"
+
+    # TASK1_URL: 'http://192.168.20.151:5001/predict'
+    TASK1_URL: 'http://service.mmlab.uit.edu.vn/receipt/task1/predict'
+    TASK2_URL: 'http://192.168.20.151:5002/predict'
+    TASK3_URL: 'http://192.168.20.151:5003/predict'

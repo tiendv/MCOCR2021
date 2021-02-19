@@ -1,0 +1,8 @@
+ 
+__MACOSX/
+__pycache__/
+
+*.json
+#*.jpg
+output_pipline/detec_reg/*/*.txt
+

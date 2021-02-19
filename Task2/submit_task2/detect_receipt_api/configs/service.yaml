@@ -1,0 +1,11 @@
+SERVICE:
+    SERVICE_IP: "0.0.0.0"
+    PORT: 5050
+    LOG_PATH: "logfile"
+    CLASSES: "detect_receipt_api/models/classes.txt"
+
+    DETECT_WEIGHT: "detect_receipt_api/models/faster_RCNN_R_101_FPN_35AP_reciept_90AP.pth"
+    DETECT_CONFIG: "detect_receipt_api/detectron2/configs/COCO-Detection/faster_rcnn_R_101_FPN_3x.yaml"
+    THRESHOLD: 0.5
+    NUMBER_CLASS: 5
+    DEVICE: 'cuda'

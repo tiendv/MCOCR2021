@@ -1,0 +1,24 @@
+version: '2'
+services:
+  pannet:
+    runtime: nvidia
+    network_mode: host
+    build:
+        context: .
+        args:
+            - NODE_ENV=local
+        dockerfile: ./pannet/Dockerfile_pannet
+    ports:
+        - "5010:5010"
+  e2e:
+    runtime: nvidia
+    network_mode: host
+    build:
+        context: .
+        args:
+            - NODE_ENV=local
+        dockerfile: ./submit_task2/Dockerfile_e2e
+    volumes:
+        - ./output:/output
+    ports:
+        - "80:80"

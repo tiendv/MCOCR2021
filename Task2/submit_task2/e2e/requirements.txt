@@ -1,0 +1,22 @@
+easydict 
+imutils 
+pandas 
+Pillow 
+matplotlib 
+numpy 
+scipy 
+requests 
+Cython
+scikit-learn
+tqdm 
+recognizers_text 
+recognizers_date_time 
+pyyaml 
+lmdb
+# opencv-python
+unidecode
+Levenshtein
+shapely
+
+flask-restful
+Flask-Cors
