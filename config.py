@@ -2,7 +2,7 @@ import time
 
 INPUT_SIZE_LIST = {"b0": 224, "b1": 240, "b2": 260, "b3": 300, "b4": 380, "b5": 456, "b6": 528, "b7": 600}
 
-EPOCHS = 500
+EPOCHS = 1000
 BATCH_SIZE = 16
 LEARNING_RATE = 1e-4
 

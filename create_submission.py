@@ -6,6 +6,7 @@ import numpy as np
 from keras import models
 from tqdm import tqdm
 from cropper import crop_receipt
+import time
 
 def create_submission(model, test_img_folder, sample_csv_path, result_path):
 	img_id_list = []
@@ -18,8 +19,12 @@ def create_submission(model, test_img_folder, sample_csv_path, result_path):
 		csv_reader = [dict(d) for d in csv_reader]
 		model = models.load_model(model)
 
-		input_size = model.layers[0].input_shape[1]
+		try:
+			input_size = model.layers[0].input_shape[1]
+		except:
+			input_size = model.layers[0].input_shape[0][1]
 
+		t = 0
 		for row in tqdm(csv_reader):
 			img_id = row["img_id"]
 			img_id_list.append(img_id)
@@ -31,8 +36,13 @@ def create_submission(model, test_img_folder, sample_csv_path, result_path):
 
 			image = image.reshape((1,input_size,input_size,3))
 			
+			start = time.time()
 			quality = model.predict(image)[0][0]
+			t += (time.time() - start)
+
 			quality_list.append(str(quality))
+
+		print(f"Average inference time per image: {t/len(csv_reader)}")
 
 	# Write submission csv file
 	with open(result_path, "w") as fo:
