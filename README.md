@@ -1,4 +1,4 @@
-🏆News: our team got *the winner* at Task 1 and reached the *top 7* at Task 2 in MC-OCR 2021.
+🏆News: our team got **the winner** at Task 1 and reached the **top 7** at Task 2 in MC-OCR 2021.
 
 ## Mobile-Captured Image Document Recognition for Vietnamese Receipts 2021 (MC-OCR 2021)
 
