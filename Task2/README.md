@@ -8,9 +8,9 @@ The challenge Task 2 of MC-OCR 2021 required extract information receipt. Extrac
 
 # RUN SUBMIT 
 ## COPY IMAGE_TEST
-    `cp <folder_image_which_name_"input"> ./submit_task2`
+    cp <folder_image_which_name_"input"> ./submit_task2
 ## BUILD DOCKER COMPOSE
-    `docker-compose up`
+    docker-compose up
 ## OUTPUT 
 
 A csv file will be created in the folder [output](https://gitlab.com/tiendv/mc-ocr_rivf2020/-/tree/full-task2-docker-compose/output)
