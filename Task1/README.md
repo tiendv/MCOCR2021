@@ -43,4 +43,4 @@ To train model, run the command below:
 - `saved_model_path`: Path to the saved model.
 - `result_path`: The destination path to save submission csv file.
 
-You can use the final pretrained model that we used for the private test, click [here](https://drive.google.com/file/d/1qAAtHgfbGze9hKduQYfZLaf_DEhrL-ct/view?usp=sharing) to download.
+You can use the final saved model that we used for the private test, click [here](https://drive.google.com/file/d/1qAAtHgfbGze9hKduQYfZLaf_DEhrL-ct/view?usp=sharing) to download.
