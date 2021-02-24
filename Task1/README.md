@@ -20,6 +20,12 @@ Detailed information of MC-OCR 2021 can be found [here](https://rivf2021-mc-ocr.
 
 `pip3 install -r requirements.txt`
 
+### Hardware configuration
+
+- GPU: Quadro RTX 8000
+- CPU: Intel(R) Xeon(R) CPU E5-2620 v3 2.40GHz
+- RAM: 65GB.
+
 ### Train EfficientNet model
 
 To adjust the hyperparameter of training model, please access `config.py`
@@ -36,3 +42,5 @@ To train model, run the command below:
 - `sample_csv_path`: Path to sample submission csv in private test.
 - `saved_model_path`: Path to the saved model.
 - `result_path`: The destination path to save submission csv file.
+
+You can use the final pretrained model that we used for the private test, click [here](https://drive.google.com/file/d/1qAAtHgfbGze9hKduQYfZLaf_DEhrL-ct/view?usp=sharing) to download.
